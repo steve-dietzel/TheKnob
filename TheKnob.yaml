@@ -14,7 +14,7 @@ substitutions:
   ltng_near_mi: "10"                        # red ring
   ltng_mid_mi: "20"                         # orange ring
   ltng_stale_s: "900"                       # strike stale after N sec
-  ring_bright: "0.35"                        # ring brightness 0.0-1.0 (steady + flash)
+  ring_bright: "0.75"                        # ring brightness 0.0-1.0 (steady + flash)
 #
 # Secrets: wifi_ssid, wifi_password, api_key
 # In HA: ESPHome device -> Configure -> "Allow device to perform HA actions" ON
